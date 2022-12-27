@@ -43,7 +43,7 @@ setup(
     packages = setuptools.find_packages(),
     include_package_data = True,
     install_requires = ['nbdev'],
-    extras_require = {"dev": ['pipenv-setup', 'vistir==0.6.1', 'packaging==21.3', 'pre-commit',],},
+    extras_require = {"dev": ['pipenv-setup', 'vistir==0.6.1', 'packaging==21.3', 'pre-commit', 'ipykernel',],},
     dependency_links = [],
     python_requires  = '>=' + cfg['min_python'],
     long_description = open('README.md').read(),
