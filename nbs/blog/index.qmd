@@ -1,6 +1,6 @@
 ---
-title: blog
-subtitle: private notes
+title: "blogtitle"
+subtitle: "private notes"
 listing:
   sort: "date desc"
   contents: "posts"

@@ -3,3 +3,11 @@ website:
     contents:
       - index.ipynb
       - 00_core.ipynb
+      - section: blog
+        contents:
+          - blog/index.qmd
+          - section: posts
+            contents:
+              - section: 2022-12-27-first-post
+                contents:
+                  - blog/posts/2022-12-27-first-post/index.ipynb

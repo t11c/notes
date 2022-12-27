@@ -15,7 +15,7 @@ website:
     background: primary
     search: true
     left:
-      - text: "blog"
+      - text: "blogtitle quarto"
         href: blog/index.qmd
   sidebar:
     style: floating
