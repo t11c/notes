@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "notes"
+  site-url: "https://t11c.github.io/notes"
+  description: "private notes"
+  repo-branch: main
+  repo-url: "https://github.com/t11c/notes"
