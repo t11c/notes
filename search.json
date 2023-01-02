@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "notes",
+    "section": "",
+    "text": "https://t11c.github.io/notes/"
+  },
+  {
+    "objectID": "blog/posts/2022-12-27-first-post/index.html",
+    "href": "blog/posts/2022-12-27-first-post/index.html",
+    "title": "First Post",
+    "section": "",
+    "text": "A short overwiew\nUsing Pipenv\nThere are some tweaks for using pipenv with nbdev:\nhttps://forums.fast.ai/t/guide-reproducible-environment-in-nbdev-with-pipenv/102742"
+  },
+  {
+    "objectID": "blog/index.html",
+    "href": "blog/index.html",
+    "title": "blogtitle",
+    "section": "",
+    "text": "First Post\n\n\n\n\n\nPost description\n\n\n\n\n\n\nDec 27, 2022\n\n\ntom\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "core.html",
+    "href": "core.html",
+    "title": "core",
+    "section": "",
+    "text": "source\n\nfoo\n\n foo ()"
+  },
+  {
+    "objectID": "various-useful.html",
+    "href": "various-useful.html",
+    "title": "Various Useful",
+    "section": "",
+    "text": "source: https://stackoverflow.com/a/64526840/5345691\nyoutube-dl -f \"bestaudio/best\" -ciw -o \"%(title)s.%(ext)s\" -v --extract-audio --audio-quality 0 --audio-format mp3 <link>"
+  }
+]
